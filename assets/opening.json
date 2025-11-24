@@ -1,0 +1,32 @@
+[
+	{
+		"title": "begin",
+		"tags": "",
+		"body": "<< BIMA >> \nKekacauan. Hanya satu kata itu yang mampu mewakili apa yang terhampar di depan mata. Kota Jakarta yang biasanya hiruk pikuk, kini bergemuruh oleh sisa amarah.\nDemo besar-besaran yang merobek pagi kini meninggalkan jejak pahit. Udara menyesakkan, menipis, dipenuhi partikel debu dan bara frustrasi.\nGas air mata aroma pedihnya masih menempel kuat, menusuk hidung, menusuk tenggorokan. Setiap hembusan napas terasa seperti menelan serpihan kaca. Dimana-mana.\nBukan lagi teriakan lantang persatuan. Kini hanya ada teriakan massa yang menyayat, suara keputusasaan, kemarahan yang tertahan, dan rintihan yang tercecer.\nDan di tengah-tengah semua itu, dialah yang berdiri paling tegak\nIa tidak bergeming. Tanpa kata, tanpa ragu. Dengan pandangan mata yang membara, ia memimpin barisan terakhir mereka yang menolak untuk menyerah, mereka yang menuntut keadilan, bahkan di tengah kehancuran.",
+		"position": {
+			"x": 230,
+			"y": -63
+		},
+		"colorID": 8
+	},
+	{
+		"title": "dialog1",
+		"tags": "",
+		"body": "<<Bima>> <<BimaMarah>> \r\n(teriak dari dasar perut)\r\nKita di sini bukan cari ribut! Kita cuma mau suara kita didengar!\r\n\r\n<<Polisi>> <<Polisi>> \r\n(berteriak balik)\r\n[b]Bubar! Ini peringatan terakhir![/b]\r\n<<DELETE_POLISI>>\r\n\r\n<<mahasiswa1>> <<mahasiswa1>> \r\n(narik lengan Bima)\r\nBim, mundur dulu! Polisi makin maju!\r\n\r\n<<Bima>> <<BimaMarah>> \r\n(lepas genggaman, makin emosi)\r\nMundur terus kapan majunya?!\r\n(teriak ke polisi)\r\nKalian sok jaga Pancasila, tapi tindakan kalian NGINJEK Pancasila! \r\n\r\n<<Narator>> \r\nPolisi melepaskan tembakan gas air mata. Asap putih tebal meluncur ke arah mahasiswa.\r\n\r\n<<mahasiswa1>> <<mahasiswa1>> \r\nBima! Lu batuk-batuk, mundur dulu!\r\n\r\n<<Narator>> \r\nBima batuk keras. Matanya berkedip cepat karena perih. Nafasnya berat.\r\n\r\n<<Bima>> <<BimaKhawatir>> \r\n(suara melemah, tapi tetap teriak)\r\nKalian pikir kalian mewakili rakyat?! Kalian cuma…\r\n(batuk lagi, terjatuh)\r\n…jual idealisme…\r\n\r\n<<mahasiswa1>> <<mahasiswa1>> \r\n(panik)\r\nBIM! BIMA! HEY!\r\nSuara sekitar memudar. Teriakan berubah jadi gema. Gerakan melambat seperti underwater.\r\n<<DELETE_MAHASISWA1>> \r\n\r\n<<Bima>> <<Bimakhawatir>> \r\n(berbisik hampir tak terdengar)\r\nApa… yang… terjadi…?\r\n\r\n<<Narator>> \r\nCahaya putih menyelimuti pandangannya, semakin terang, semakin menyilaukan—",
+		"position": {
+			"x": 448,
+			"y": -68
+		},
+		"colorID": 0
+	},
+	{
+		"title": "scene 1.2",
+		"tags": "",
+		"body": "\r\n<<Narator>> \r\nSuara ayam berkokok. Angin masuk lewat celah papan kayu. BIMA membuka mata perlahan. Ia tersentak, ruangan ini asing. Di samping ranjang lusuh, seorang pria 35–45 tahun duduk santai sambil membaca koran berbahasa Belanda.\r\n<<???>> <<MR_A>> \r\n(tanpa menoleh) \r\nAkhirnya bangun juga. Apa kau baik-baik saja?\r\n<<CreateBima>> \r\n...\r\n<<Bima>> <<BimaKhawatir>> \r\n\r\n(kaget, bangkit duduk)\r\nSiapa… siapa Anda?! Saya… tadi saya ikut demo… polisi…\r\n<<Narator>> \r\nOrang tersebut melipat korannya perlahan, menatap Bima dengan senyum ramah—tapi matanya dingin.\r\n<<??>> <<MR_A_SENYUM>> \r\nAku Anggoro. Panggil saja Paman Anggoro. Dan kau… sedang tidak berada di Jakarta yang kemarin kau ingat.\r\n<<Bima>> <<BimaKhawatir>> \r\n(nafas terputus) Maksudnya apa? Ini rumah siapa?!\r\n<<??>> <<MR_Netral>> \r\nIni tahun…\r\n(mengeja pelan, seperti menguji Bima)\r\nseribu sembilan ratus empat puluh lima. Tanggal sebelas Agustus.\r\n<<Bima>> <<BimaKaget>> \r\n(terpaku, tidak percaya)\r\nEmpat… puluh… lima?\r\nTidak, mustahil. Mana ponselku… mana…\r\n<<Narator>> \r\nIa meraba kantong. Kosong. Bahkan bajunya berubah—kain tempo dulu.\r\n\r\n\r\n",
+		"position": {
+			"x": -5,
+			"y": -118
+		},
+		"colorID": 0
+	}
+]
