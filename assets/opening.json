@@ -24,8 +24,8 @@
 		"tags": "",
 		"body": "\r\n<<Narator>> \r\nSuara ayam berkokok. Angin masuk lewat celah papan kayu. BIMA membuka mata perlahan. Ia tersentak, ruangan ini asing. Di samping ranjang lusuh, seorang pria 35–45 tahun duduk santai sambil membaca koran berbahasa Belanda.\r\n<<???>> <<MR_A>> \r\n(tanpa menoleh) \r\nAkhirnya bangun juga. Apa kau baik-baik saja?\r\n<<CreateBima>> \r\n...\r\n<<Bima>> <<BimaKhawatir>> \r\n\r\n(kaget, bangkit duduk)\r\nSiapa… siapa Anda?! Saya… tadi saya ikut demo… polisi…\r\n<<Narator>> \r\nOrang tersebut melipat korannya perlahan, menatap Bima dengan senyum ramah—tapi matanya dingin.\r\n<<??>> <<MR_A_SENYUM>> \r\nAku Anggoro. Panggil saja Paman Anggoro. Dan kau… sedang tidak berada di Jakarta yang kemarin kau ingat.\r\n<<Bima>> <<BimaKhawatir>> \r\n(nafas terputus) Maksudnya apa? Ini rumah siapa?!\r\n<<??>> <<MR_Netral>> \r\nIni tahun…\r\n(mengeja pelan, seperti menguji Bima)\r\nseribu sembilan ratus empat puluh lima. Tanggal sebelas Agustus.\r\n<<Bima>> <<BimaKaget>> \r\n(terpaku, tidak percaya)\r\nEmpat… puluh… lima?\r\nTidak, mustahil. Mana ponselku… mana…\r\n<<Narator>> \r\nIa meraba kantong. Kosong. Bahkan bajunya berubah—kain tempo dulu.\r\n<<??>> <<MR_Netral>> \r\nTenangkan dirimu, kita berdua sama.\r\nKita adalah... pengelana waktu. Ini adalah regresi ketujuhku. Aku selalu gagal mempertahankan masa depan karena seseorang selalu merusaknya.\r\n<<Bima>> <<BimaKhawatir>> \r\n(gemetar)\r\nTidak masuk akal....\r\nPaman jangan bercanda, tolong kembalikan saya ke rumah saya.\r\n<<??>> \r\nAku tidak memaksamu untuk percaya\r\n(Mencondongkan badan)\r\nTapi aku sudah enam kali kembali ke titik ini.\r\nSayangnya… selalu gagal. Selalu ada seseorang yang merusak sejarah.\r\n<<Bima>> <<BimaMarah>> \r\n(naik emosi)\r\nBerarti ada orang lain yang nyusup ke masa lalu?!\r\nAyo kita tangkap dia, Paman!!!\r\n<<Narator>> \r\nMR. A tersenyum sambil menepuk bahu Bima.\r\n<<BimaNetral>> \r\n<<??>> \r\nSabar, anak muda. Istirahatlah dulu. Kenali keadaan. Aku ada urusan di kampung sebelah. Dan ingat satu hal.\r\n(serius)\r\nJANGAN INTERVENSI SEJARAH. Amati saja.\r\n<<Narator>> \r\nMR. A keluar, menutup pintu.\r\nSaat punggungnya membelakangi Bima. senyumnya berubah… samar… tidak tulus.\r\n\r\n\r\n",
 		"position": {
-			"x": -4,
-			"y": -118
+			"x": -3,
+			"y": -116
 		},
 		"colorID": 0
 	},
@@ -74,8 +74,8 @@
 		"tags": "",
 		"body": "Dipo masuk ke dalam rumah kosong itu bersama dua pengawal. Ia membawa sebuah tas kulit tebal yang terlihat berat.\n\nKalian jaga di depan. Jangan biarkan siapa pun masuk. Aku harus mempelajari instruksi Tuan Anggoro.\n\nDipo meletakkan tas itu di atas meja kayu berdebu. Tiba-tiba, terdengar suara keributan di luar.\n\nWoy! Siapa yang nyuruh parkir truk di sini?!\n\nDipo mendecih kesal. Ia melirik tasnya sebentar, merasa aman karena ada di markas sendiri, lalu keluar untuk memeriksa keributan.\n\nHening sejenak. Kamera bergeser ke jendela samping yang sedikit terbuka. Rangga dan Bima mengintip. Wajah mereka tegang.\n\n(Berbisik tajam)\nItu kesempatan kita. Dia meninggalkan tasnya.\n\nTapi ada penjaga di depan.\n\nLewat jendela ini. Aku yang awasi pintu. Kamu ambil dokumennya. Cepat! Kita cuma punya waktu kurang dari dua menit.\n\nBima memanjat masuk dengan hati-hati agar lantai kayu tua tidak berderit. Ia mendekati meja. Tas kulit itu terkunci, tapi kuncinya sederhana. Bima mengeluarkan pisau lipat kecil (yang dipinjam dari Rangga) dan mencongkelnya.\n\nTas terbuka. Di dalamnya bukan hanya uang, tapi tumpukan surat dengan kop surat asing. Bima menarik selembar kertas paling atas. Matanya membelalak membaca isinya.\n\n(Membaca dalam hati) \"Target Utama: Deadlock Sidang 18 Agustus. Isu: Syariat Islam. Tujuan Akhir: Separatisme Indonesia Timur.\"\nTangan Bima gemetar. Di bawah surat itu, ada tanda tangan inisial: \"A\".\n\n(Dari jendela, panik) Bima! Dia balik!\n\nBima menyambar surat itu, memasukkannya ke saku, dan melompat keluar jendela tepat saat gagang pintu depan berputar.\n\n",
 		"position": {
-			"x": 180,
-			"y": -112
+			"x": 337,
+			"y": -165
 		},
 		"colorID": 0
 	}
