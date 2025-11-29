@@ -70,12 +70,42 @@
 		"colorID": 0
 	},
 	{
-		"title": "Node",
+		"title": "Scene7",
 		"tags": "",
-		"body": "Dipo masuk ke dalam rumah kosong itu bersama dua pengawal. Ia membawa sebuah tas kulit tebal yang terlihat berat.\n\nKalian jaga di depan. Jangan biarkan siapa pun masuk. Aku harus mempelajari instruksi Tuan Anggoro.\n\nDipo meletakkan tas itu di atas meja kayu berdebu. Tiba-tiba, terdengar suara keributan di luar.\n\nWoy! Siapa yang nyuruh parkir truk di sini?!\n\nDipo mendecih kesal. Ia melirik tasnya sebentar, merasa aman karena ada di markas sendiri, lalu keluar untuk memeriksa keributan.\n\nHening sejenak. Kamera bergeser ke jendela samping yang sedikit terbuka. Rangga dan Bima mengintip. Wajah mereka tegang.\n\n(Berbisik tajam)\nItu kesempatan kita. Dia meninggalkan tasnya.\n\nTapi ada penjaga di depan.\n\nLewat jendela ini. Aku yang awasi pintu. Kamu ambil dokumennya. Cepat! Kita cuma punya waktu kurang dari dua menit.\n\nBima memanjat masuk dengan hati-hati agar lantai kayu tua tidak berderit. Ia mendekati meja. Tas kulit itu terkunci, tapi kuncinya sederhana. Bima mengeluarkan pisau lipat kecil (yang dipinjam dari Rangga) dan mencongkelnya.\n\nTas terbuka. Di dalamnya bukan hanya uang, tapi tumpukan surat dengan kop surat asing. Bima menarik selembar kertas paling atas. Matanya membelalak membaca isinya.\n\n(Membaca dalam hati) \"Target Utama: Deadlock Sidang 18 Agustus. Isu: Syariat Islam. Tujuan Akhir: Separatisme Indonesia Timur.\"\nTangan Bima gemetar. Di bawah surat itu, ada tanda tangan inisial: \"A\".\n\n(Dari jendela, panik) Bima! Dia balik!\n\nBima menyambar surat itu, memasukkannya ke saku, dan melompat keluar jendela tepat saat gagang pintu depan berputar.\n\n",
+		"body": "<<Narator>> \nDipo masuk ke dalam rumah kosong itu bersama dua pengawal. Ia membawa sebuah tas kulit tebal yang terlihat berat.\n<<Dipo>> <<Create_Dipo>> \nKalian jaga di depan. Jangan biarkan siapa pun masuk. Aku harus mempelajari instruksi Tuan Anggoro.\n<<Narator>> \nDipo meletakkan tas itu di atas meja kayu berdebu. Tiba-tiba, terdengar suara keributan di luar.\n<<suara_ribut>> \nWoy! Siapa yang nyuruh parkir truk di sini?!\n<<Narator>> \nDipo mendecih kesal. Ia melirik tasnya sebentar, merasa aman karena ada di markas sendiri, lalu keluar untuk memeriksa keributan.\n<<Narator>> <<Delete_Dipo>> \nHening sejenak. Kamera bergeser ke jendela samping yang sedikit terbuka. Rangga dan Bima mengintip. Wajah mereka tegang.\n<<Rangga>> <<Create_Rangga>> \n(Berbisik tajam)\nItu kesempatan kita. Dia meninggalkan tasnya.\n<<Bima>> <<CreateBima>> \nTapi ada penjaga di depan.\n<<Rangga>> \nLewat jendela ini. Aku yang awasi pintu. Kamu ambil dokumennya. Cepat! Kita cuma punya waktu kurang dari dua menit.\n<<Narator>> \nBima memanjat masuk dengan hati-hati agar lantai kayu tua tidak berderit. Ia mendekati meja. Tas kulit itu terkunci, tapi kuncinya sederhana. Bima mengeluarkan pisau lipat kecil (yang dipinjam dari Rangga) dan mencongkelnya.\n<<Narator>> \nTas terbuka. Di dalamnya bukan hanya uang, tapi tumpukan surat dengan kop surat asing. Bima menarik selembar kertas paling atas. Matanya membelalak membaca isinya.\n<<Bima>> \n(Membaca dalam hati) \"Target Utama: Deadlock Sidang 18 Agustus. Isu: Syariat Islam. Tujuan Akhir: Separatisme Indonesia Timur.\"\n<<Narator>> \nTangan Bima gemetar. Di bawah surat itu, ada tanda tangan inisial: \"A\".\n<<Rangga>> \n(Dari jendela, panik) Bima! Dia balik!\n<<Narator>> \nBima menyambar surat itu, memasukkannya ke saku, dan melompat keluar jendela tepat saat gagang pintu depan berputar.\n\n",
 		"position": {
 			"x": 337,
-			"y": -165
+			"y": -167
+		},
+		"colorID": 0
+	},
+	{
+		"title": "Node",
+		"tags": "",
+		"body": "Empty Text",
+		"position": {
+			"x": 180,
+			"y": -113
+		},
+		"colorID": 0
+	},
+	{
+		"title": "Scene7.2",
+		"tags": "",
+		"body": "<<Narator>> \nMereka berlari menembus semak-semak sampai napas mereka habis. Bima bersandar di pohon pisang, terengah-engah.\n<<Bima>> <<CreateBima>> \nGila... Rangga, lihat ini.\n<<Narator>> \nBima menyerahkan surat kusut itu. Rangga membacanya. Wajahnya yang biasanya santai berubah menjadi keras dan dingin.\n<<Rangga>> <<Create_Rangga>> \nIni bukan sekadar provokasi jalanan, Bim. \n(Menatap Bima tajam) \nIni skenario kudeta. Mereka mau memecah negara ini sebelum lahir.\n<<Bima>> \nDan orang yang mendanainya... inisial A. (Paman Anggoro? Enggak, Belum tentu, hanya kebetulan...)\n<<Rangga>> \nKita tidak bisa simpan ini sendiri. Kalau Dipo tahu suratnya hilang, dia bakal memburu kita. Kita butuh perlindungan.\n<<Bima>> \nKita harus lapor ke anggota PPKI.\n<<Rangga>> \n(Mengangguk) Kasman Singodimedjo. Dia orang yang lurus. Dia pasti mau dengar. Ayo, sebelum Dipo sadar.\n\n",
+		"position": {
+			"x": 180,
+			"y": -113
+		},
+		"colorID": 0
+	},
+	{
+		"title": "Scene8",
+		"tags": "",
+		"body": "<<Narator>> \r\nMalam gelap, jalan desa hanya diterangi beberapa lampu minyak dari rumah-rumah. Mereka sudah ada didepan rumah petinggi KASMAN SINGODIMEDJO. \r\n<<Narator>> \r\nRangga mengetuk pintu dua kali.\r\nTak lama, pintu terbuka, menampakkan Pak Kasman\r\n<<Kasman>> <<CreateKasman>> \r\nAda apa? Tumben malam begini.\r\n<<Narator>> \r\nRangga langsung menunjuk kantong ditangan Bima.\r\n<<Rangga>> <<Create_Rangga>>\r\nPak, kami nemu ini.\r\nIsinya… sesuatu yang Bapak harus lihat sendiri.\r\n<<Narator>> \r\nKasman memandang Bima yang membawa kantong hitam, lalu mempersilakan mereka masuk.\r\nKasman membuka kantong, membaca beberapa potongan surat.\r\nAlisnya langsung turun.\r\n<<Kasman>> \r\nIni laporan…?\r\nDan ini bukan laporan main-main.\r\n<<Narator>> <<CreateBima>> \r\nBima maju sedikit.\r\n<<Bima>> \r\nIya, Pak. Kami lihat sendiri orang yang menanam ini.\r\nNamanya Dipo.\r\nNggak tau dateng dari mana, tapi banyak yang ikut kata-katanya.\r\n<<Narator>>\r\nKasman membaca lagi selembar kecil.\r\n<<Kasman>>\r\n“Orang-orang kita sudah masuk bangku rekomendasi gubernur…”\r\nHmmm…\r\n<<Narator>> \r\nIa menutup kantong itu pelan.\r\n<<Kasman>> \r\nBaik.\r\nBesok kalian ikut saya. Kalian akan mendampingi kami di sidang.\r\n<<Narator>>\r\nRangga mengangguk\r\n<<Bima>> \r\nBaik, Pak. Kami siap.\r\n<<Narator>> \r\nKasman berdiri, memberi isyarat mereka boleh pulang.\r\n<<Kasman>>\r\nUntuk malam ini, jangan bicara ke siapa pun dulu.\r\nKita bahas besok pagi.\r\nBima dan Rangga membungkuk sedikit.\r\n<<Rangga>>\r\nBaik, Pak. Kami pamit.\r\n<<Nartor>> \r\nKasman mengangguk perlahan, matanya masih penuh pikiran.\r\n",
+		"position": {
+			"x": 181,
+			"y": -114
 		},
 		"colorID": 0
 	}
