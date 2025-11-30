@@ -4,8 +4,8 @@
 		"tags": "",
 		"body": "<< BIMA >> \nKekacauan. Hanya satu kata itu yang mampu mewakili apa yang terhampar di depan mata. Kota Jakarta yang biasanya hiruk pikuk, kini bergemuruh oleh sisa amarah.\nDemo besar-besaran yang merobek pagi kini meninggalkan jejak pahit. Udara menyesakkan, menipis, dipenuhi partikel debu dan bara frustrasi.\nGas air mata aroma pedihnya masih menempel kuat, menusuk hidung, menusuk tenggorokan. Setiap hembusan napas terasa seperti menelan serpihan kaca. Dimana-mana.\nBukan lagi teriakan lantang persatuan. Kini hanya ada teriakan massa yang menyayat, suara keputusasaan, kemarahan yang tertahan, dan rintihan yang tercecer.\nDan di tengah-tengah semua itu, dialah yang berdiri paling tegak\nIa tidak bergeming. Tanpa kata, tanpa ragu. Dengan pandangan mata yang membara, ia memimpin barisan terakhir mereka yang menolak untuk menyerah, mereka yang menuntut keadilan, bahkan di tengah kehancuran.",
 		"position": {
-			"x": -291,
-			"y": -181
+			"x": -522,
+			"y": -281
 		},
 		"colorID": 8
 	},
@@ -14,8 +14,8 @@
 		"tags": "",
 		"body": "<<Bima>> <<BimaMarah>> << bimamarahsfx>> \r\n(teriak dari dasar perut)\r\nKita di sini bukan cari ribut! Kita cuma mau suara kita didengar!\r\n\r\n<<Polisi>> <<Polisi>> \r\n(berteriak balik)\r\n[b]Bubar! Ini peringatan terakhir![/b]\r\n<<DELETE_POLISI>>\r\n\r\n<<mahasiswa1>> <<mahasiswa1>> \r\n(narik lengan Bima)\r\nBim, mundur dulu! Polisi makin maju!\r\n\r\n<<Bima>> <<BimaMarah>> << bimamarahsfx>> \r\n(lepas genggaman, makin emosi)\r\nMundur terus kapan majunya?!\r\n(teriak ke polisi)\r\nKalian sok jaga Pancasila, tapi tindakan kalian NGINJEK Pancasila! \r\n\r\n<<Narator>> \r\nPolisi melepaskan tembakan gas air mata. Asap putih tebal meluncur ke arah mahasiswa.\r\n\r\n<<mahasiswa1>> <<mahasiswa1>> \r\nBima! << batuk>> Lu batuk-batuk, mundur dulu!\r\n\r\n<<Narator>> \r\nBima batuk keras. Matanya berkedip cepat karena perih. Nafasnya berat.\r\n\r\n<<Bima>> <<BimaKhawatir>> \r\n(suara melemah, tapi tetap teriak)\r\nKalian pikir kalian mewakili rakyat?! Kalian cuma…\r\n(batuk lagi, terjatuh)\r\n…jual idealisme…\r\n\r\n<<mahasiswa1>> <<mahasiswa1>> \r\n(panik)\r\nBIM! BIMA! HEY!\r\nSuara sekitar memudar. Teriakan berubah jadi gema. Gerakan melambat seperti underwater.\r\n<<DELETE_MAHASISWA1>> \r\n\r\n<<Bima>> <<Bimakhawatir>> \r\n(berbisik hampir tak terdengar)\r\nApa… yang… terjadi…?\r\n\r\n<<Narator>> \r\nCahaya putih menyelimuti pandangannya, semakin terang, semakin menyilaukan—",
 		"position": {
-			"x": 602,
-			"y": -88
+			"x": 317,
+			"y": -9
 		},
 		"colorID": 0
 	},
@@ -24,8 +24,8 @@
 		"tags": "",
 		"body": "<<Narator>> \r\nSuara ayam berkokok. Angin masuk lewat celah papan kayu. BIMA membuka mata perlahan. Ia tersentak, ruangan ini asing. Di samping ranjang lusuh, seorang pria 35–45 tahun duduk santai sambil membaca koran berbahasa Belanda.\r\n<<???>> <<MR_A>> \r\n(tanpa menoleh) \r\nAkhirnya bangun juga. Apa kau baik-baik saja?\r\n<<CreateBima>> \r\n...\r\n<<Bima>> <<BimaKhawatir>> << kagetsfx>> \r\n\r\n(kaget, bangkit duduk)\r\nSiapa… siapa Anda?! Saya… tadi saya ikut demo… polisi…\r\n<<Narator>> \r\nOrang tersebut melipat korannya perlahan, menatap Bima dengan senyum ramah—tapi matanya dingin.\r\n<<??>> <<MR_A_SENYUM>> \r\nAku Anggoro. Panggil saja Paman Anggoro. Dan kau… sedang tidak berada di Jakarta yang kemarin kau ingat.\r\n<<Bima>> <<BimaKhawatir>> \r\n(nafas terputus) Maksudnya apa? Ini rumah siapa?!\r\n<<??>> <<MR_Netral>> \r\nIni tahun…\r\n(mengeja pelan, seperti menguji Bima)\r\nseribu sembilan ratus empat puluh lima. Tanggal sebelas Agustus.\r\n<<Bima>> <<BimaKaget>> << kagetsfx>> \r\n(terpaku, tidak percaya)\r\nEmpat… puluh… lima?\r\nTidak, mustahil. Mana ponselku… mana…\r\n<<Narator>> \r\nIa meraba kantong. Kosong. Bahkan bajunya berubah—kain tempo dulu.\r\n<<??>> <<MR_Netral>> \r\nTenangkan dirimu, kita berdua sama.\r\nKita adalah... pengelana waktu. Ini adalah regresi ketujuhku. Aku selalu gagal mempertahankan masa depan karena seseorang selalu merusaknya.\r\n<<Bima>> <<BimaKhawatir>> << ShakeOn>> \r\n(gemetar)\r\nTidak masuk akal....\r\nPaman jangan bercanda, tolong kembalikan saya ke rumah saya.\r\n<<??>> \r\nAku tidak memaksamu untuk percaya\r\n(Mencondongkan badan)\r\nTapi aku sudah enam kali kembali ke titik ini.\r\nSayangnya… selalu gagal. Selalu ada seseorang yang merusak sejarah.\r\n<<Bima>> <<BimaMarah>> \r\n(naik emosi)\r\nBerarti ada orang lain yang nyusup ke masa lalu?!\r\nAyo kita tangkap dia, Paman!!!\r\n<<Narator>>  \r\nMR. A tersenyum sambil menepuk bahu Bima.\r\n<<BimaNetral>> \r\n<<??>> << ShakeOff>>\r\nSabar, anak muda. Istirahatlah dulu. Kenali keadaan. Aku ada urusan di kampung sebelah. Dan ingat satu hal.\r\n(serius)\r\nJANGAN INTERVENSI SEJARAH. Amati saja.<< mr.a-cabut>> \r\n<<Narator>> \r\nMR. A keluar, menutup pintu.<< nutup pintu>> \r\nSaat punggungnya membelakangi Bima. senyumnya berubah… samar… tidak tulus.",
 		"position": {
-			"x": -449,
-			"y": -31
+			"x": -269,
+			"y": -34
 		},
 		"colorID": 0
 	},
@@ -34,8 +34,8 @@
 		"tags": "",
 		"body": "\n<<Narator>> \nMr. A masuk ke gang sempit. Bertemu DIPO, pemuda dengan wajah yang keras\n<<Dipo>> <<Create_Dipo>> <<Dipo_Senang>> \nIde yang Tuan berikan kemarin… luar biasa!!! Mereka lelah dengan kaum borjuis yang selalu berkuasa.\n<<Dipo_Netral>> \n<<??>> <<MR_A>> << suaramra>> \nIde ini bukan dariku, Dipo.\nIni hanya pencerahan.\nRakyat harus memimpin.\n<<Narator>> <<Dipo_Senang>> \nDipo mengangguk cepat, matanya berbinar.\n<<??>> << suaramra>> \nSudah berapa banyak orang kita yang berhasil masuk ke rekomendasi gubernur?\n<<Dipo>> <<Dipo_Netral>> \nTiga, Tuan. Tapi itu cukup untuk menanamkan benih perpecahan di sidang PPKI nanti.\n<<Narator>> <<MRA_SENYUM>> \nMr. A tersenyum kecil, senyum yang samar, tidak hangat.\nIa menepuk pundak Dipo.\n<<??>> << suaramra>> \nBagus.Pastikan mereka siap.<< transisi>>\n<<Narator>> <<Dipo_Senang>> \nDipo mengangguk sekali lagi, penuh semangat.\n ",
 		"position": {
-			"x": -238,
-			"y": -436
+			"x": -531,
+			"y": -534
 		},
 		"colorID": 0
 	},
@@ -54,8 +54,8 @@
 		"tags": "",
 		"body": "<<Narator>> \r\nMalam tenang. Lampu minyak bergoyang pelan tertiup angin.\r\nBima duduk di meja kecil, menulis sesuatu di kertas lusuh.\r\nPintu berderit << pintusfx>>  pelan.\r\nMr. A masuk,<< langkahmra>>  langkahnya ringan dan terukur seperti biasa.\r\n<<??>> <<MR_A>> \r\nAku dengar dari tetangga kau berjalan cukup jauh hari ini.\r\n<<Narator>> <<CreateBima>> \r\nBima menoleh, sedikit kaget.\r\n<<Bima>> <<BimaKaget>><< bimakagetsfx>> \r\nIya lumayan... \r\n<<BimaNetral>> \r\npaman dari mana aja kok lama banget?\r\n<<??>> \r\n(santai)\r\nPaman habis gotong royong di kampung sebelah. Ada rumah warga yang perlu dibantu. Lumayan makan waktu.\r\n<<Narator>> \r\nBima mengangguk. Suasana mulai tenang. Menjelang mereka bersiap untuk tidur, Bima akhirnya cerita.\r\n<<Bima>> \r\nOh iya, tadi siang pas keliling.\r\nAku ketemu orang, namanya Rangga.\r\n<<Narator>> <<MRA_KAGET>> << bimakagetsfx>> \r\nMr. A langsung terhenti sepersekian detik. Ada kaget kecil yang cepat ia sembunyikan.\r\n<<??>> <<MRA_NETRAL>> \r\n(Hmm... menarik)<< hmmmra>> \r\nRangga, ya?\r\n<<Bima>> <<BimaSenang>> \r\nya, dia orang yang banyak pengetahuan, dan dia bersedia mau bantu kita.\r\n<<Narator>> <<MR_A_SENYUM>>  <<BimaNetral>> \r\nMr. A tersenyum. Senyum yang hanya naik di bibir, tidak di mata.\r\n<<??>> \r\nBaguslah kalau begitu, Bima. Kamu sudah mendapatkan teman. Ini akan membantumu fokus pada musuh.\r\n\r\n\r\n",
 		"position": {
-			"x": -554,
-			"y": -303
+			"x": -622,
+			"y": -408
 		},
 		"colorID": 0
 	},
@@ -84,8 +84,8 @@
 		"tags": "",
 		"body": "<<Narator>> \nMereka berlari menembus semak-semak sampai napas mereka habis. << napas>> Bima bersandar di pohon pisang, terengah-engah. \n<<Bima>> <<CreateBima>> \nGila... Rangga, lihat ini.\n<<Narator>> \nBima menyerahkan surat kusut itu. Rangga membacanya. Wajahnya yang biasanya santai berubah menjadi keras dan dingin.\n<<Rangga>> <<Create_Rangga>> \nIni bukan sekadar provokasi jalanan, Bim. \n(Menatap Bima tajam) \nIni skenario kudeta. Mereka mau memecah negara ini sebelum lahir.\n<<Bima>> \nDan orang yang mendanainya... inisial A. (Paman Anggoro? Enggak, Belum tentu, hanya kebetulan...)\n<<Rangga>> \nKita tidak bisa simpan ini sendiri. Kalau Dipo tahu suratnya hilang, dia bakal memburu kita. Kita butuh perlindungan.\n<<Bima>> \nKita harus lapor ke anggota PPKI.\n<<Rangga>> \n(Mengangguk) Kasman Singodimedjo. Dia orang yang lurus. Dia pasti mau dengar. Ayo, sebelum Dipo sadar.",
 		"position": {
-			"x": 125,
-			"y": 122
+			"x": 164,
+			"y": 112
 		},
 		"colorID": 0
 	},
@@ -94,8 +94,8 @@
 		"tags": "",
 		"body": "<<Narator>> \r\nMalam gelap, jalan desa hanya diterangi beberapa lampu minyak dari rumah-rumah. Mereka sudah ada didepan rumah petinggi KASMAN SINGODIMEDJO. \r\n<<Narator>> \r\nRangga mengetuk pintu dua kali<< ketukpintu>> .\r\nTak lama, pintu terbuka, << pintu>> menampakkan Pak Kasman\r\n<<Kasman>> <<CreateKasman>> \r\nAda apa? Tumben malam begini.\r\n<<Narator>> \r\nRangga langsung menunjuk kantong ditangan Bima.\r\n<<Rangga>> <<Create_Rangga>> <<RanggaKhawatir>> \r\nPak, kami nemu ini.\r\nIsinya… sesuatu yang Bapak harus lihat sendiri.\r\n<<Narator>> <<RanggaNetral>> \r\nKasman memandang Bima yang membawa kantong hitam, lalu mempersilakan mereka masuk.\r\nKasman membuka kantong, membaca beberapa potongan surat.\r\nAlisnya langsung turun.\r\n<<Kasman>> \r\nIni laporan…?\r\nDan ini bukan laporan main-main.\r\n<<Narator>> <<CreateBima>> \r\nBima maju sedikit.\r\n<<Bima>> \r\nIya, Pak. Kami lihat sendiri orang yang menanam ini.\r\nNamanya Dipo.\r\nNggak tau dateng dari mana, tapi banyak yang ikut kata-katanya.\r\n<<Narator>>\r\nKasman membaca lagi selembar kecil.\r\n<<Kasman>> <<KasmanKhawatir>> \r\n“Orang-orang kita sudah masuk bangku rekomendasi gubernur…”\r\n<<KasmanNetral>> \r\nHmmm…\r\n<<Narator>> \r\nIa menutup kantong itu pelan.\r\n<<Kasman>> \r\nBaik.\r\nBesok kalian ikut saya. Kalian akan mendampingi kami di sidang.\r\n<<Narator>>\r\nRangga mengangguk\r\n<<Bima>> \r\nBaik, Pak. Kami siap.\r\n<<Narator>> \r\nKasman berdiri, memberi isyarat mereka boleh pulang.\r\n<<Kasman>>\r\nUntuk malam ini, jangan bicara ke siapa pun dulu.\r\nKita bahas besok pagi.\r\nBima dan Rangga membungkuk sedikit.\r\n<<Rangga>>\r\nBaik, Pak. Kami pamit.\r\n<<Nartor>> \r\nKasman mengangguk perlahan, matanya masih penuh pikiran.\r\n",
 		"position": {
-			"x": -465,
-			"y": -505
+			"x": -648,
+			"y": -600
 		},
 		"colorID": 0
 	},
@@ -122,10 +122,10 @@
 	{
 		"title": "Scene10.2",
 		"tags": "",
-		"body": "<<Narator>>\r\nSuasana di dalam mencekam. Suara teriakan Dipo terdengar samar-samar, menambah ketegangan. Para anggota PPKI sedang istirahat darurat (lobbying session) karena sidang macet (deadlock).\r\n<<Narator>> \r\nHATTA terlihat berbicara serius dengan TEUKU MOHAMMAD HASAN (Wakil Sumatera). Wajah Hatta pucat.\r\n<<Hatta>> \r\n(Suara berat) Tuan Hasan... jika kita gagal hari ini, besok tidak ada Indonesia. Saudara-saudara di Timur mengancam akan berdiri sendiri jika sila pertama tidak diubah.\r\n<<Narator>> \r\nDi sudut lain, KI BAGUS HADIKUSUMO duduk dengan wajah keras, dikelilingi kelompok Islam. Ia terlihat tidak mau diganggu.\r\nBIMA dan RANGGA berdiri di belakang KASMAN SINGODIMEDJO, menyamar sebagai asisten/ajudan.\r\n<<Bima>> <<CreateBima>> <<CreateKasman>>\r\n(Berbisik pada Kasman) Pak, lihat Ki Bagus. Beliau kuncinya. Kalau beliau tidak melunak, Dipo di luar sana menang. Indonesia bubar.\r\n<<Kasman>> <<KasmanKhawatir>> <<CreateKasman>> \r\n(Mengusap wajah, stress) Saya sudah coba bicara, Bima. Tapi beliau merasa dikhianati. Beliau merasa perjuangan umat tidak dihargai.\r\n<<Bima>> <<BimaKhawatir>> \r\nPak... Bapak harus masuk lagi ke sana. Ini kesempatan terakhir sebelum Soekarno menutup sidang.\r\n<<Kasman>> <<KasmanNetral>> \r\nApa yang harus saya katakan? Hati Ki Bagus sedang keras seperti batu. Salah bicara sedikit, beliau malah akan walk out.\r\n<<Narator>>\r\nBima menatap mata Pak Kasman. Ia tahu sejarah aslinya, tapi ia juga tahu emosi manusia bisa berubah tergantung kata-kata yang dipilih\r\n\r\n[[Pak, sentuh hatinya soal 'Saudara'. Bilang: Apakah kita rela mayoritas menang tapi kehilangan saudara di Timur?|a]]\r\n\r\n[[Pak, tegaskan posisi negara! Bilang: Agama tidak boleh mengatur negara. Kita butuh konstitusi modern!|b]]",
+		"body": "<<Narator>>\r\nSuasana di dalam mencekam. Suara teriakan Dipo terdengar samar-samar, menambah ketegangan. Para anggota PPKI sedang istirahat darurat (lobbying session) karena sidang macet (deadlock).\r\n<<Narator>> \r\nHATTA terlihat berbicara serius dengan TEUKU MOHAMMAD HASAN (Wakil Sumatera). Wajah Hatta pucat.\r\n<<Hatta>> \r\n(Suara berat) Tuan Hasan... jika kita gagal hari ini, besok tidak ada Indonesia. Saudara-saudara di Timur mengancam akan berdiri sendiri jika sila pertama tidak diubah.\r\n<<Narator>> \r\nDi sudut lain, KI BAGUS HADIKUSUMO duduk dengan wajah keras, dikelilingi kelompok Islam. Ia terlihat tidak mau diganggu.\r\nBIMA dan RANGGA berdiri di belakang KASMAN SINGODIMEDJO, menyamar sebagai asisten/ajudan.\r\n<<Bima>> <<CreateBima>> <<CreateKasman>>\r\n(Berbisik pada Kasman) Pak, lihat Ki Bagus. Beliau kuncinya. Kalau beliau tidak melunak, Dipo di luar sana menang. Indonesia bubar.\r\n<<Kasman>> <<KasmanKhawatir>> <<CreateKasman>> \r\n(Mengusap wajah, stress) Saya sudah coba bicara, Bima. Tapi beliau merasa dikhianati. Beliau merasa perjuangan umat tidak dihargai.\r\n<<Bima>> <<BimaKhawatir>> \r\nPak... Bapak harus masuk lagi ke sana. Ini kesempatan terakhir sebelum Soekarno menutup sidang.\r\n<<Kasman>> <<KasmanNetral>> \r\nApa yang harus saya katakan? Hati Ki Bagus sedang keras seperti batu. Salah bicara sedikit, beliau malah akan walk out.\r\n<<Narator>>\r\nBima menatap mata Pak Kasman. Ia tahu sejarah aslinya, tapi ia juga tahu emosi manusia bisa berubah tergantung kata-kata yang dipilih\r\n<<gameover>> \r\n[[Pak, sentuh hatinya soal 'Saudara'. Bilang: Apakah kita rela mayoritas menang tapi kehilangan saudara di Timur?|a]]\r\n\r\n[[Pak, tegaskan posisi negara! Bilang: Agama tidak boleh mengatur negara. Kita butuh konstitusi modern!|b]]\r\n",
 		"position": {
-			"x": 120,
-			"y": -89
+			"x": -463,
+			"y": -9
 		},
 		"colorID": 0
 	},
@@ -134,20 +134,20 @@
 		"tags": "",
 		"body": "<<Kasman>>  <<DELETEBIMA>> \r\nKehilangan saudara... \r\n(Mengangguk tegas) Baik. Itu bahasa yang beliau mengerti.\r\n<<Narator>> \r\nKasman merapikan pecinya, lalu berjalan pelan mendekati Ki Bagus Hadikusumo dengan sikap hormat (takzim).\r\n<<Narator>> \r\n(Kasman Duduk di samping Ki Bagus, bicara lembut) \r\n<<Kasman>> <<KasmanSenyum>> \r\nKyai... nyuwun sewu. Lihatlah ke Timur. Apakah kita rela umat yang besar ini menjadi asing bagi saudara sebangsanya di Papua dan Ambon?\r\n<<Narator>>\r\nKi Bagus terdiam. Matanya yang tajam perlahan meredup. \r\n<<Kasman>> \r\nKemenangan sejati bukan memaksakan kata-kata di atas kertas, Kyai. Tapi memenangkan hati seluruh nusantara.\r\n<<Narator>> \r\nHening sejenak. \r\n<<KiBagus>> <<KasmanSenyum>> <<CreateKi>> \r\n(Menghela napas berat) Demi persatuan... Saya ikhlas. Ganti tujuh kata itu.\r\n<<Narator>> <<DELETEKASMAN>> \r\nSOEKARNO mengetuk palu. TOK! TOK! TOK! Pancasila sah. \r\n<<Bima>> <<BimaSenyum>>  <<CreateBima1>> \r\n(Tersenyum lega) Kita berhasil, Rangga. Pancasila aman.\r\n<<Rangga>> <<CreateRangga>> \r\nBelum sepenuhnya aman, Bim. Ingat dokumen yang kita curi di markas Dipo kemarin?\r\n<<Narator>>    \r\nBima merogoh saku, mengeluarkan kertas kusut yang dicuri di markas Dipo\r\n<<Rangga>>  \r\nDi situ tertulis: \"Jika Plan A (Sidang) gagal, aktifkan Plan B: Hanguskan Logistik di Gudang Pelabuhan Sunda Kelapa.\"\r\n<<Narator>>  <<BimaKaget>> \r\nmata Bima terbelalak. Ia melihat ke luar jendela. Di kejauhan, arah utara, terlihat kilatan cahaya samar seperti persiapan peledakan.\r\n<<Bima>> <<BimaMarah>>  \r\nSialan... Mereka mau menghancurkan ekonomi Jakarta supaya negara baru ini bangkrut sejak hari pertama.\r\nRANGGA Ayo! Kita harus hentikan dia sebelum meledak!",
 		"position": {
-			"x": 124,
-			"y": -355
+			"x": -240,
+			"y": -492
 		},
 		"colorID": 0
 	},
 	{
 		"title": "b",
 		"tags": "",
-		"body": "Empty Text",
+		"body": "<<Kasman>> <<CREATEKASMAN>> <<KasmanKhawatir>> \r\n(Mengangguk ragu)\r\nBenar... Negara harus di atas segalanya.\r\n<<Narator>> \r\n(Kasman mendekati Ki Bagus) \r\n<<Kasman>> \r\nKyai... mohon maaf. Tapi negara ini tidak bisa didikte oleh satu golongan. Kita harus berpikir modern, tinggalkan ego agama.\r\n<<Narator>> \r\nKi Bagus menatap Kasman dengan tatapan tersinggung yang luar biasa. \r\n<<KiBagus>> <<CREATEKI>> <<KIMARAH>> << marahsfx>> \r\nEgo? Kau sebut iman kami ego, Kasman?! Jika begitu... lebih baik kami pulang!\r\n<<Narator>> \r\nki Bagus berdiri, membanting kursi. KI BAGUS (Berteriak ke forum) KAMI MUNDUR! SILAKAN BIKIN NEGARA SENDIRI TANPA KAMI!\r\n<<Hatta>> <<DELETEKI>> \r\nKyai! Tunggu!\r\n<<NARATOR>> \r\nKekacauan terjadi. Sidang bubar. Dipo di luar tertawa puas. Glitch merah menelan layar. \r\n\r\n<<gameover>>",
 		"position": {
-			"x": 344,
-			"y": -355
+			"x": -56,
+			"y": -350
 		},
-		"colorID": 0
+		"colorID": 1
 	},
 	{
 		"title": "DIALOG BAD ENDING",
@@ -156,6 +156,96 @@
 		"position": {
 			"x": 1,
 			"y": -554
+		},
+		"colorID": 0
+	},
+	{
+		"title": "Scene11",
+		"tags": "",
+		"body": "<<Narator>> \r\nHujan mengguyur Jakarta tanpa ampun, seolah langit ingin mencuci dosa-dosa hari ini. Aku dan Rangga berdiri di tengah gudang kosong yang berbau besi berkarat dan oli. Atap bocor meneteskan air ke lantai, menciptakan genangan hitam.\r\n<<Bima>> <<CreateBima>> <<BimaMarah>> \r\n(Berteriak kalahkan suara hujan) \"Paman! Kita sudah di sini! Apa rencananya? Sidang sudah selesai, Dipo sudah kalah!\"\r\n<<Rangga>> <<CreateRangga>> <<RanggaNetral>> \r\n(Waspada, tangan di pinggang—dekat pisau belatinya) Bim... perasaanku tidak enak. Tempat ini... ini tempat eksekusi lama Kaigun.\r\nTiba-tiba, suara tepuk tangan lambat terdengar dari balik tumpukan peti kayu.\r\n<<??>>  \r\nPaman Anggoro melangkah keluar dari bayangan. Dia tidak lagi memakai baju lurik sederhananya. Dia mengenakan jas hujan militer gelap, rapi, bersih. Wajahnya... dingin. Tidak ada lagi senyum paman yang hangat.\r\n<<??>> <<MRA>> \r\nLuar biasa, Bima. Luar biasa. Aku meremehkanmu.\r\n<<Bima>> <<BimaKaget>> <<RanggaMarah>> \r\nPaman? Kenapa kita di sini? Dipo itu... dia pionmu, kan? Untuk menguji kami?\r\n<<Narator>> <<MRAS>> \r\nMR. A tertawa. Tawa yang kering dan hampa. \r\n<<??>> <<BimaKhawatir>> \r\nMenguji? Tidak, Nak. Dipo itu harapanku. Harapan ketujuhku yang kau hancurkan berkeping-keping tadi pagi.\r\n<<Narator>> \r\nKepalaku berdenyut lagi. Kali ini lebih sakit. Sosok Mr. A terlihat berbayang, seolah dia tidak benar-benar menapak di dimensi ini.\r\n<<??>> <<RanggaNetral>> \r\nKau pikir aku siapa? Pamanmu yang baik hati? Aku adalah kau, Bima. Atau setidaknya... aku pernah menjadi sepertimu. Mahasiswa bodoh yang berteriak soal keadilan di jalanan.\r\n<<Bima>>  \r\nApa maksudmu...?\r\n<<??>> <<MRAMARAH>> \r\nLihat masa depanmu, Bima! Demo, gas air mata, korupsi, kolusi! 79 tahun merdeka, dan apa yang kita dapat? Negara yang sakit!\r\n<<Narator>> \r\nMr. A mengeluarkan sebuah pistol Nambu Type 14. Dia mengarahkannya bukan padaku, tapi ke langit-langit.\r\n<<??>> \r\n(Nada suara naik, penuh amarah) \r\nAku sudah kembali ke tahun ini tujuh kali! Aku mencoba mengubah sila pertama, gagal. Mencoba mengubah pasal ekonomi, gagal. Kali ini... aku ingin menciptakan Chaos. Agar negara ini bubar sebelum dimulai. Agar kita tidak perlu menderita di masa depan!\r\n<<Rangga>> \r\nGila... Kau pengkhianat bangsa!\r\n<<Narator>> <<RanggaMarah>> \r\nRangga mencabut belatinya dan menerjang maju.\r\nRangga terpelanting ke belakang. Peluru menyerempet bahunya. Dia jatuh mengerang kesakitan.\r\n<<Bima>> <<BimaMarah>> \r\nRANGGA!\r\n<<Narator>>\r\nAku berlari menghampiri Rangga. Darah segar mengalir dari bahunya, bercampur air hujan yang kotor.\r\nMR. A (Menodongkan pistol ke arah Bima) \r\n<<??>>  <<MRAS>> <<RanggaNetral>> \r\nJangan bergerak. Kau tahu kenapa aku membawamu ke sini, Bima? Karena hanya 'Anomali' yang bisa membunuh 'Anomali'. Aku tidak bisa pulang ke masa depan kalau kau masih ada di sini menjaga sejarah.\r\n<<Bima>> <<BimaNetral>> \r\n(Dia benar. Dia putus asa. Dia bukan ingin memperbaiki sejarah... dia ingin mengakhirinya karena lelah. Aku harus melawannya. Tapi bagaimana? Dia punya pistol.)\r\n<<Narator>> \r\nMataku menangkap sesuatu di belakang Mr. A. Tumpukan barel minyak tua dengan simbol 'Flammable'. Dan di atasnya... lampu gantung yang kabelnya sudah terkelupas, memercikkan api kecil setiap kali tertiup angin.\r\n<<Bima>> \r\nKau salah, Paman. Sejarah bukan untuk dihapus karena jelek. Sejarah itu guru.\r\n<<??>> \r\nCih. Guru yang buruk.\r\n<<Narator>> <<MRANETRAL>> \r\nMr. A mengokang pistolnya. Jarak kami 5 meter. Aku tidak mungkin lari. Aku harus menggunakan pengetahuanku. Gudang ini... struktur bangunan Belanda tahun 1920-an. Lantainya kayu lapuk.\r\n\r\n[[ CHOICE 1: Historical Environment Trap] Lempar besi ke lampu gantung di atasnya.|bc]]\r\n\r\n[[ [CHOICE 2: Psychological Attack] Paman, di masa depan... Istrimu masih hidup kan?|ab]]",
+		"position": {
+			"x": -88,
+			"y": 87
+		},
+		"colorID": 0
+	},
+	{
+		"title": "1",
+		"tags": "",
+		"body": "<<Narator>> \nBima Paman, di masa depan itu, istri mu masih hidup bukan? Tidak kah kau ingin menemuinya lagi?\n<<??>> \nhahaaha, apa kau mencoba mengulur waktu bima? Percuma! Semua itu telah aku tinggalkan untuk ambis ku ini, jangan pikir kau bisa mengulur waktu hingga warga datang\n<<Narator>> \nMR A menodongkan pisalnya kearah bima\n<<??>> \nMR A Kata Kata Terakhir?\n<<Bima>> \nBIMA Paman, Tolong pikirkan ska-\n<<Rangga>> \nT-tidak! Bima!!\n<<??>> \nHahaha, Di tempat ambisiku berada, tidak ada yang butuh orang seperti kalian berdua\n<<Narator>> \nMR A menodongkan pistolnya kearah Rangga\nRangga Mencoba melarikan diri keluar gudang\n<<Rangga>> \n(panik, terengah engah mencoba berlari kepintu luar)\nGak, Gak bisa seperti ini, aku harus minta bantuan Pak Kasman, Bima.. Akan kubalaskan kematian mu nant-\n<<??>> \nMR A Hahaha, mencoba lari? Tidak semudah itu.",
+		"position": {
+			"x": -779,
+			"y": -383
+		},
+		"colorID": 0
+	},
+	{
+		"title": "2",
+		"tags": "",
+		"body": "<<Kasman>> <<CREATEKASMAN>> <<KasmanKhawatir>> \r\n(Mengangguk ragu)\r\nBenar... Negara harus di atas segalanya.\r\n<<Narator>> \r\n(Kasman mendekati Ki Bagus) \r\n<<Kasman>> \r\nKyai... mohon maaf. Tapi negara ini tidak bisa didikte oleh satu golongan. Kita harus berpikir modern, tinggalkan ego agama.\r\n<<Narator>> \r\nKi Bagus menatap Kasman dengan tatapan tersinggung yang luar biasa. \r\n<<KiBagus>> <<CREATEKI>> <<KIMARAH>> << marahsfx>> \r\nEgo? Kau sebut iman kami ego, Kasman?! Jika begitu... lebih baik kami pulang!\r\n<<Narator>> \r\nki Bagus berdiri, membanting kursi. KI BAGUS (Berteriak ke forum) KAMI MUNDUR! SILAKAN BIKIN NEGARA SENDIRI TANPA KAMI!\r\n<<Hatta>> <<DELETEKI>> \r\nKyai! Tunggu!\r\n<<NARATOR>> \r\nKekacauan terjadi. Sidang bubar. Dipo di luar tertawa puas. Glitch merah menelan layar.\r\n<<GAME_OVER>>",
+		"position": {
+			"x": 653,
+			"y": -367
+		},
+		"colorID": 0
+	},
+	{
+		"title": "C",
+		"tags": "",
+		"body": "daadad\nadda\n<<G>> ",
+		"position": {
+			"x": -274,
+			"y": -285
+		},
+		"colorID": 0
+	},
+	{
+		"title": "EVIL",
+		"tags": "",
+		"body": "Empty Text",
+		"position": {
+			"x": 765,
+			"y": -441
+		},
+		"colorID": 0
+	},
+	{
+		"title": "EVIL",
+		"tags": "",
+		"body": "<<NARATOR>>\nPertarungan itu brutal. Rangga sudah terkapar pingsan di sudut ruangan. Aku berdiri di atas Mr. A yang terbatuk-batuk. Pistol Nambu itu sekarang ada di tanganku. Ujungnya mengarah tepat ke kening Mr. A.\n\n<<MR. A>> <<MR_A>> <<MRS>> \nAyo, Bima. Tembak. Jadilah pembunuh. Dengan begitu, kau membuktikan hipotesisku. Bahwa kekerasan adalah satu-satunya bahasa yang dimengerti manusia.\n\n<<NARATOR>> \nTanganku gemetar. Bukan karena takut. Tapi karena adrenalin. Aku melihat sekeliling. Gudang tua ini... tahun 1945 ini... terasa begitu nyata. Begitu mentah. Di masa depanku, semuanya palsu. Semuanya diatur oligarki.\n\n<<NARATOR>> \nTapi di sini? Di sini aku tahu segalanya. Aku tahu siapa yang akan menang, siapa yang akan kalah, saham apa yang akan naik, siapa yang akan berkhianat.\n\n<<MR. A>> \nKenapa diam? Tembak aku, lalu pulanglah ke masa depanmu yang menyedihkan itu. Jadilah mahasiswa gagal lagi.\n\n<<NARATOR>> \nKata-kata itu menohokku.\n\n<<Bima>> <<BimaSus>> <<CreateBima>> \nPulang? Untuk apa? Untuk didemo polisi lagi? Untuk jadi budak korporat?\n\n<<NARATOR>> \nBima tertawa. Tawa yang pelan, lalu makin keras.\n\n<<BIMA>> \nPulang? Kau pikir aku melakukan semua ini hanya untuk pulang, Paman?\n\n<<NARATOR>> \nAku menurunkan pistol, tapi bukan untuk membuangnya. Aku memukulkannya keras ke pelipis Mr. A.\n\n<<NARATOR>> <<MRAMARAH>> \nMr. A mengerang, jatuh tersungkur. Tubuhnya mulai berpendar cahaya putih—tanda dia akan melompat waktu atau lenyap.\n\n<<MR. A>>  \nUhuk... percuma... waktuku habis... aku akan kembali ke void...\n\n<<BIMA>> <<BimaMarah>> \nTidak. Kau tidak akan pergi ke mana-mana.\n\n<<BIMA>> <<BimaSus>> \n(Berbisik di telinga Mr. A)\nKau gagal karena kau setengah hati, Paman. Kau ingin memperbaiki sejarah, tapi kau masih punya moral. Aku? Aku tidak butuh moral. Aku butuh hasil.\n\n<<NARATOR>> Aku menghantamkan gagang pistol ke alat di tangan Mr. A. Cahaya putih itu meledak, lalu mati mendadak. Berubah menjadi asap hitam. Mr. A berteriak kesakitan saat tubuhnya dipaksa kembali memadat di realitas 1945. Dia tidak jadi menghilang. Dia terjebak. Di sini. Bersamaku.\n\n<<MR. A>> <<MRAK>> \n(Panik, ketakutan)\nApa... apa yang kau lakukan?! Kita akan menciptakan paradoks!\n\n<<BIMA>> <<BimaSus>> \n(Berdiri tegak, menatap hujan di luar) \nParadoks? Tidak. Ini adalah Orde Baru.\n\n<<NARATOR>> \nAku menatap Rangga yang pingsan. Dia akan jadi jenderalku yang setia. Dipo akan jadi anjing penyerangku. Dan Mr. A... dia akan jadi penasihat pribadiku, suka atau tidak.\n\n<<BIMA>> \nTidur yang nyenyak, Paman. Besok, kita punya negara untuk dibangun.",
+		"position": {
+			"x": -510,
+			"y": -509
+		},
+		"colorID": 0
+	},
+	{
+		"title": "DialogOpta",
+		"tags": "",
+		"body": "<<Bima>> <<CreateBima>> <<CreateRangga>> <<MRA>> \nBima Paman, di masa depan itu, istri mu masih hidup bukan? Tidak kah kau ingin menemuinya lagi?\n<<??>>  \nhahaaha, apa kau mencoba mengulur waktu bima? Percuma! Semua itu telah aku tinggalkan untuk ambis ku ini, jangan pikir kau bisa mengulur waktu hingga warga datang\n<<Narator>> \nMR A menodongkan pistolnya kearah bima\n<<??>> \nMR A Kata Kata Terakhir?\n<<Bima>> <<BimaKhawatiR>> \nBIMA Paman, Tolong pikirkan ska-\n<<Rangga>> <<RanggaMarah>> <<DELETEBIMA>> \nT-tidak! Bima!!\n<<??>> \nHahaha, Di tempat ambisiku berada, tidak ada yang butuh orang seperti kalian berdua\n<<Narator>> \nMR A menodongkan pistolnya kearah Rangga\nRangga Mencoba melarikan diri keluar gudang\n<<Rangga>> <<MRAMARAH>> \n(panik, terengah engah mencoba berlari kepintu luar)\nGak, Gak bisa seperti ini, aku harus minta bantuan Pak Kasman, Bima.. Akan kubalaskan kematian mu nant-\n<<??>> <<MRAS>> \nMR A Hahaha, mencoba lari? Tidak semudah itu.",
+		"position": {
+			"x": -605,
+			"y": -356
+		},
+		"colorID": 0
+	},
+	{
+		"title": "DialogOptB",
+		"tags": "",
+		"body": "<<Bima>> <<BimaMarah>> <<CreateBima>> \nSEKARANG, RANGGA!\n\n<<Rangga>> <<CreateRangga>> \nMeskipun terluka, aku mengerti kodenya.\n\nAku melempar belati—bukan ke Mr. A, tapi ke arah Bima. Tunggu… bukan, aku mengarahkannya ke tumpukan karung goni di samping Mr. A untuk mengalihkan perhatiannya!\n\n<<Narator>>\nMr. A menoleh reflex sebentar. Itu celah!\nAku segera menyambar sebatang besi tua di dekat kakiku dan melemparkannya sekuat tenaga ke arah lampu gantung di atas kepala Mr. A.\nBesi itu menghantam lampu. Kabel putus. Lampu besar itu jatuh berayun, membawa kabel listrik telanjang yang menyala liar.\n\n<<Mr. A>> <<MRAMARAH>> <<MRA>> \nApa—?!\n<<Narator>>\nLampu itu tidak menimpanya, tapi kabel listriknya menyambar genangan air di kakinya.\n<<Mr. A>>\nAAAAARGHHH!!\n<<Narator>> \nTubuh Mr. A kejang hebat tersengat listrik tegangan tinggi. Pistolnya terlempar. Dia jatuh berlutut, asap tipis mengepul dari jasnya. Distorsi visual di sekelilingnya pecah berantakan, seperti kaca yang hancur.\n<<Bima>> \n(terengah-engah)\nItu… untuk masa depan yang kau hina.\n\n<<Narator>>\nAku berjalan mendekat.\n\n<<Mr. A>> <<MRANETRAL>> \n(terbatuk darah, terkapar di lantai)\nHebat… kau benar-benar… varian terbaikku.\n<<Narator>> \nMr. A mencoba meraih alat di pergelangan tangannya—Chronos Device—tapi tangannya terlalu lemah. Alat itu terlepas dan menggelinding ke kaki Bima. Retak, tapi masih menyala, berdengung dengan energi waktu.\n\n<<Mr. A>> <<MRAS>> \nAmbillah, Bima… Kau menang. (tersenyum licik di sela napasnya)\nTapi pikirkan… kau mau pulang ke tahun 2024? Jadi mahasiswa miskin lagi? Didemo polisi lagi?\n\n<<Narator>>\nBima memungut alat itu. Cahaya biru memantul di wajahnya.\n\n<<Mr. A>>\nAtau… kau gunakan alat itu. Kau tahu masa depan. Kau tahu harga emas, kau tahu siapa pemenang pemilu, kau tahu letak tambang minyak. Dengan alat itu… kau bisa jadi Raja di tahun 1945. Kau bisa bikin Indonesia jadi raksasa… di bawah kakimu.\n\n<<Narator>>\nRangga mengerang kesakitan di sudut ruangan, pingsan karena pendarahan.\n<<DeleteRangga>> \n<<Narator>>\nHanya ada Bima, Mr. A yang sekarat, dan Chronos Device.\n\n[[ [HANCURKAN ALAT] Sejarah bukan milik satu orang|LNJT]]\n[[ [AMBIL ALIH KEKUASAAN] \"Paman benar. Aku butuh kuasa.|EVL]]",
+		"position": {
+			"x": -75,
+			"y": -19
+		},
+		"colorID": 0
+	},
+	{
+		"title": "scene12",
+		"tags": "",
+		"body": "<<CreateBg>> <<RUMAHSAKIT>> <<DeleteBima>>\n<<Narator>> \nCahaya putih itu perlahan meredup. Bukan menjadi gelap, tapi menjadi bentuk-bentuk samar. Bau besi dan darah 1945 menghilang, digantikan bau antiseptik yang tajam. Suara hujan deras berganti dengan dengungan AC yang halus.\n\n<<Bima>> <<CreateBima>> \n(Membuka mata perlahan) \nUgh...\n\n<<Perawat>> \nDokter! Pasien Kamar 308 sadar! Bima sadar!\n\n<<Narator>> \nSuara langkah kaki terburu-buru. Aku mencoba duduk. Kepalaku masih pening, tapi rasanya... ringan. Aku menoleh ke jendela. Di luar sana, Jakarta berdiri megah. Gedung-gedung pencakar langit, MRT yang melintas.\n\n<<Bima>> \nAku... kembali?\n\n<<Narator>> \nMataku tertuju pada kalender dinding digital. 17 AGUSTUS 2024.\n\n<<Narator>> \nLalu, aku melihat televisi yang menyala di sudut ruangan. Siaran ulang Upacara Kemerdekaan di IKN.\n\n<<Narator>> \n(tv)\"...dengan khidmat membacakan teks Pancasila. Satu: Ketuhanan Yang Maha Esa...\"\n\n<<Narator>> Air mata menetes tanpa bisa kutahan. Bukan \"Tujuh Kata\". Bukan \"Syariat\". Tapi \"Ketuhanan Yang Maha Esa\". Persatuan itu... masih ada.\n\n<<Bima>> <<BimaSenyum>> \n(Tersenyum lebar meski menangis) \nKita berhasil. Kita berhasil, Rangga.\n\n<<Narator>> Aku memegang dadaku. Rasanya, di dalam sana, sejarah berdetak dengan benar. Aku mungkin cuma mahasiswa biasa lagi sekarang. Tapi aku tahu, aku pernah menjaga nyawa bangsa ini.",
+		"position": {
+			"x": 196,
+			"y": -235
 		},
 		"colorID": 0
 	}
