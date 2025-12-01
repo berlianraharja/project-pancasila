@@ -1233,6 +1233,116 @@
         "name": "scene 12A rumah sakit2.png",
         "smoothed": true,
         "userAdded": false
+      },
+      {
+        "file": "../../../../Downloads/Music/Heavy_Breath_Fast.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "..\\..\\..\\..\\Downloads\\Music\\Heavy_Breath_Fast.mp3",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "Heavy_Rain_Thunder.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "Heavy_Rain_Thunder.mp3",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "hand-clap-106596.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "hand-clap-106596.mp3",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "evil-man-laughing-107079.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "evil-man-laughing-107079.mp3",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "Gunshot_Loud.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "Gunshot_Loud.mp3",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "heart-monitors-beeping-in-the-hospital-430212.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "heart-monitors-beeping-in-the-hospital-430212.mp3",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "../../../../Downloads/Music/footsteps-on-wood-397989.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "..\\..\\..\\..\\Downloads\\Music\\footsteps-on-wood-397989.mp3",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "footsteps-on-wood-397987.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "footsteps-on-wood-397987.mp3",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "explosion-sound-effect-425455.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "explosion-sound-effect-425455.mp3",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "running-on-the-floor-359909.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "running-on-the-floor-359909.mp3",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "Electric_Shock_Loud.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "Electric_Shock_Loud.mp3",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
       }
     ]
   },
@@ -45574,7 +45684,16 @@
           "updateIfNotVisible": false,
           "variables": [],
           "effects": [],
-          "behaviors": [],
+          "behaviors": [
+            {
+              "name": "ShakeObject_PositionAngle",
+              "type": "ShakeObject::ShakeObject_PositionAngle"
+            },
+            {
+              "name": "Tween",
+              "type": "Tween::TweenBehavior"
+            }
+          ],
           "animations": [
             {
               "name": "netral",
@@ -48182,6 +48301,18 @@
                 "=",
                 "1000"
               ]
+            },
+            {
+              "type": {
+                "value": "PlaySound"
+              },
+              "parameters": [
+                "",
+                "Heavy_Rain_Thunder.mp3",
+                "yes",
+                "30",
+                ""
+              ]
             }
           ]
         },
@@ -48358,6 +48489,31 @@
                 "Scale",
                 "=",
                 "0.24"
+              ]
+            },
+            {
+              "type": {
+                "value": "OpacityCapability::OpacityBehavior::SetValue"
+              },
+              "parameters": [
+                "MR_A",
+                "Opacity",
+                "=",
+                "0"
+              ]
+            },
+            {
+              "type": {
+                "value": "Tween::TweenBehavior::AddObjectOpacityTween2"
+              },
+              "parameters": [
+                "MR_A",
+                "Tween",
+                "\"opacty\"",
+                "255",
+                "\"linear\"",
+                "0.24",
+                ""
               ]
             }
           ]
@@ -50117,6 +50273,141 @@
                 "Animation",
                 "=",
                 "\"RMH SAKIT\""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "DialogueTree::IsCommandCalled"
+              },
+              "parameters": [
+                "\"marahsfx\""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "PlaySound"
+              },
+              "parameters": [
+                "",
+                "angry-scream-104974.mp3",
+                "",
+                "70",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "DialogueTree::IsCommandCalled"
+              },
+              "parameters": [
+                "\"tepuktangan\""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "PlaySound"
+              },
+              "parameters": [
+                "",
+                "hand-clap-106596.mp3",
+                "",
+                "70",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "DialogueTree::IsCommandCalled"
+              },
+              "parameters": [
+                "\"kagetsfx\""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "PlaySound"
+              },
+              "parameters": [
+                "",
+                "shocked-gasp-105959.mp3",
+                "",
+                "70",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "DialogueTree::IsCommandCalled"
+              },
+              "parameters": [
+                "\"tawajahat\""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "PlaySound"
+              },
+              "parameters": [
+                "",
+                "evil-man-laughing-107079.mp3",
+                "",
+                "70",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "DialogueTree::IsCommandCalled"
+              },
+              "parameters": [
+                "\"nembak\""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "PlaySound"
+              },
+              "parameters": [
+                "",
+                "Gunshot_Loud.mp3",
+                "",
+                "70",
+                ""
               ]
             }
           ]
@@ -53125,6 +53416,18 @@
                 "=",
                 "1000"
               ]
+            },
+            {
+              "type": {
+                "value": "PlaySound"
+              },
+              "parameters": [
+                "",
+                "heart-monitors-beeping-in-the-hospital-430212.mp3",
+                "",
+                "30",
+                ""
+              ]
             }
           ]
         },
@@ -54896,8 +55199,30 @@
         },
         {
           "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [],
-          "actions": []
+          "conditions": [
+            {
+              "type": {
+                "value": "DialogueTree::IsCommandCalled"
+              },
+              "parameters": [
+                "\"langkah\""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "PlaySound"
+              },
+              "parameters": [
+                "",
+                "footsteps-on-wood-397987.mp3",
+                "",
+                "30",
+                ""
+              ]
+            }
+          ]
         }
       ],
       "layers": [
@@ -55294,7 +55619,16 @@
           "updateIfNotVisible": false,
           "variables": [],
           "effects": [],
-          "behaviors": [],
+          "behaviors": [
+            {
+              "name": "ShakeObject_PositionAngle",
+              "type": "ShakeObject::ShakeObject_PositionAngle"
+            },
+            {
+              "name": "Tween",
+              "type": "Tween::TweenBehavior"
+            }
+          ],
           "animations": [
             {
               "name": "netral",
@@ -57840,6 +58174,18 @@
                 "=",
                 "1000"
               ]
+            },
+            {
+              "type": {
+                "value": "PlaySound"
+              },
+              "parameters": [
+                "",
+                "Heavy_Rain_Thunder.mp3",
+                "yes",
+                "20",
+                ""
+              ]
             }
           ]
         },
@@ -59129,6 +59475,31 @@
                 "=",
                 "0.24"
               ]
+            },
+            {
+              "type": {
+                "value": "OpacityCapability::OpacityBehavior::SetValue"
+              },
+              "parameters": [
+                "MR_A",
+                "Opacity",
+                "=",
+                "0"
+              ]
+            },
+            {
+              "type": {
+                "value": "Tween::TweenBehavior::AddObjectOpacityTween2"
+              },
+              "parameters": [
+                "MR_A",
+                "Tween",
+                "\"opacity\"",
+                "255",
+                "\"linear\"",
+                "0.24",
+                ""
+              ]
             }
           ]
         },
@@ -59664,6 +60035,141 @@
                     "DialogueTree::VerticalOptionsList(\">\")"
                   ]
                 }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "DialogueTree::IsCommandCalled"
+              },
+              "parameters": [
+                "\"ketawa\""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "PlaySound"
+              },
+              "parameters": [
+                "",
+                "deep-laugh-chucklemp3-14518.mp3",
+                "",
+                "100",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "DialogueTree::IsCommandCalled"
+              },
+              "parameters": [
+                "\"mukul\""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "PlaySound"
+              },
+              "parameters": [
+                "",
+                "Video tanpa judul ‐ Dibuat dengan Clipchamp.mp3",
+                "",
+                "70",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "DialogueTree::IsCommandCalled"
+              },
+              "parameters": [
+                "\"batuk\""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "PlaySound"
+              },
+              "parameters": [
+                "",
+                "coughing-sound-effect-type-10-294179.mp3",
+                "",
+                "70",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "DialogueTree::IsCommandCalled"
+              },
+              "parameters": [
+                "\"meledak\""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "PlaySound"
+              },
+              "parameters": [
+                "",
+                "explosion-sound-effect-425455.mp3",
+                "",
+                "40",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "DialogueTree::IsCommandCalled"
+              },
+              "parameters": [
+                "\"marah\""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "PlaySound"
+              },
+              "parameters": [
+                "",
+                "angry-scream-104974.mp3",
+                "",
+                "50",
+                ""
               ]
             }
           ]
@@ -62575,6 +63081,18 @@
                 "=",
                 "1000"
               ]
+            },
+            {
+              "type": {
+                "value": "PlaySound"
+              },
+              "parameters": [
+                "",
+                "Heavy_Rain_Thunder.mp3",
+                "yes",
+                "20",
+                ""
+              ]
             }
           ]
         },
@@ -64472,6 +64990,87 @@
               ]
             }
           ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "DialogueTree::IsCommandCalled"
+              },
+              "parameters": [
+                "\"ketawajahat\""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "PlaySound"
+              },
+              "parameters": [
+                "",
+                "evil-man-laughing-107079.mp3",
+                "",
+                "60",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "DialogueTree::IsCommandCalled"
+              },
+              "parameters": [
+                "\"nembak\""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "PlaySound"
+              },
+              "parameters": [
+                "",
+                "Gunshot_Loud.mp3",
+                "",
+                "60",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "DialogueTree::IsCommandCalled"
+              },
+              "parameters": [
+                "\"lari\""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "PlaySound"
+              },
+              "parameters": [
+                "",
+                "running-on-the-floor-359909.mp3",
+                "",
+                "100",
+                ""
+              ]
+            }
+          ]
         }
       ],
       "layers": [
@@ -64868,7 +65467,16 @@
           "updateIfNotVisible": false,
           "variables": [],
           "effects": [],
-          "behaviors": [],
+          "behaviors": [
+            {
+              "name": "ShakeObject_PositionAngle",
+              "type": "ShakeObject::ShakeObject_PositionAngle"
+            },
+            {
+              "name": "Tween",
+              "type": "Tween::TweenBehavior"
+            }
+          ],
           "animations": [
             {
               "name": "netral",
@@ -67414,6 +68022,18 @@
                 "=",
                 "1000"
               ]
+            },
+            {
+              "type": {
+                "value": "PlaySound"
+              },
+              "parameters": [
+                "",
+                "Heavy_Rain_Thunder.mp3",
+                "",
+                "30",
+                ""
+              ]
             }
           ]
         },
@@ -68719,6 +69339,31 @@
                 "=",
                 "0.24"
               ]
+            },
+            {
+              "type": {
+                "value": "OpacityCapability::OpacityBehavior::SetValue"
+              },
+              "parameters": [
+                "MR_A",
+                "Opacity",
+                "=",
+                "0"
+              ]
+            },
+            {
+              "type": {
+                "value": "Tween::TweenBehavior::AddObjectOpacityTween2"
+              },
+              "parameters": [
+                "MR_A",
+                "Tween",
+                "\"opacity\"",
+                "255",
+                "\"linear\"",
+                "0.24",
+                ""
+              ]
             }
           ]
         },
@@ -69327,6 +69972,141 @@
               "parameters": [
                 "",
                 "\"scene12\"",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "DialogueTree::IsCommandCalled"
+              },
+              "parameters": [
+                "\"marah\""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "PlaySound"
+              },
+              "parameters": [
+                "",
+                "angry-scream-104974.mp3",
+                "",
+                "80",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "DialogueTree::IsCommandCalled"
+              },
+              "parameters": [
+                "\"listrik\""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "PlaySound"
+              },
+              "parameters": [
+                "",
+                "Electric_Shock_Loud.mp3",
+                "",
+                "80",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "DialogueTree::IsCommandCalled"
+              },
+              "parameters": [
+                "\"nafas\""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "PlaySound"
+              },
+              "parameters": [
+                "",
+                "napas ‐ Dibuat dengan Clipchamp.mp3",
+                "",
+                "100",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "DialogueTree::IsCommandCalled"
+              },
+              "parameters": [
+                "\"berjalan\""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "PlaySound"
+              },
+              "parameters": [
+                "",
+                "footsteps-on-wood-397989.mp3",
+                "",
+                "90",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "DialogueTree::IsCommandCalled"
+              },
+              "parameters": [
+                "\"batuk\""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "PlaySound"
+              },
+              "parameters": [
+                "",
+                "coughing-sound-effect-type-10-294179.mp3",
+                "",
+                "90",
                 ""
               ]
             }
@@ -74031,7 +74811,7 @@
                 "",
                 "angry-scream-104974.mp3",
                 "",
-                "30",
+                "70",
                 ""
               ]
             }
@@ -74899,7 +75679,22 @@
       "stopSoundsOnStartup": true,
       "title": "",
       "v": 209,
-      "uiSettings": {},
+      "uiSettings": {
+        "grid": false,
+        "gridType": "rectangular",
+        "gridWidth": 32,
+        "gridHeight": 32,
+        "gridDepth": 32,
+        "gridOffsetX": 0,
+        "gridOffsetY": 0,
+        "gridOffsetZ": 0,
+        "gridColor": 10401023,
+        "gridAlpha": 0.8,
+        "snap": false,
+        "zoomFactor": 0.546875,
+        "windowMask": false,
+        "selectedLayer": ""
+      },
       "objectsGroups": [],
       "variables": [],
       "instances": [],
